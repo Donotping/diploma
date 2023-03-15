@@ -1,2 +1,2 @@
 # diploma
-!git clone
+!git clone https://github.com/Donotping/diploma.git
