@@ -1,1 +1,2 @@
 # diploma
+!git clone
